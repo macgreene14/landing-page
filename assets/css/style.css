@@ -20,6 +20,7 @@ img {
 h1,
 h2 {
   margin: 20px;
+  color: black;
 }
 
 main {
@@ -42,12 +43,12 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: green;
+  background-color: blue;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #ddaf94;
+  border-bottom: 10px solid black;
 }
 
 footer {
@@ -70,8 +71,8 @@ img {
 section {
   margin-bottom: 0;
   padding: 20px 10px 40px 10px;
-  border-top: 3px solid #ddaf94;
-  background-color: #e8cebf;
+  border-top: 3px solid white;
+  background-color: red;
 }
 
 form {
@@ -79,7 +80,7 @@ form {
   margin: 0 auto;
   width: 500px;
   padding: 10px;
-  border: 5px solid #ddaf94;
+  border: 5px solid black;
   border-radius: 20px;
 }
 
